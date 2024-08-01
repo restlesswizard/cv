@@ -23,3 +23,14 @@
 ### chore: Незначительные изменения, не относящиеся к функциональности, ошибкам или документации
     * chore(deps): update dependencies
     * chore(config): configure new build process
+
+## perf: Оптимизация производительности
+    * perf(api): optimize database queries for faster response times
+## build: Изменения в процессе сборки
+    * build(webpack): configure new webpack build process
+## ci: Изменения в CI/CD конфигурации
+    * ci(github): configure new github actions workflow
+## revert: Отмена предыдущего коммита
+    * revert(feat): revert changes to login form
+## WIP: Work in progress (коммиты, которые не должны быть мержены)
+    * WIP(feat): add new feature
